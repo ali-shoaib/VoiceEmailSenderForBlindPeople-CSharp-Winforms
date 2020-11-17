@@ -1,1 +1,1 @@
-# VoiceEmailSenderForBlindPeople---C-Winforms-
+# VoiceEmailSenderForBlindPeople - C# (Winforms)
