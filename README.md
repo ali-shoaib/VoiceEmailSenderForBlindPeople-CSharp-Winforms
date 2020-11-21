@@ -1,5 +1,9 @@
 # VoiceEmailSenderForBlindPeople - C# (Winforms)
 
+
+************** DO NOT TRY TO COPY OR REPLICATE THE THEME OR DESIGN! ******************
+
+
 - This is a voice base email sender application model designed for visually challenged ones. This application works through voice by taking input through voice. All types of actions can be performed through voice.
 
 - Speech recognition library is used for voice recognition.
